@@ -12,7 +12,7 @@ def translate_text():
 
 # 创建主窗口
 window = tk.Tk()
-window.title("翻译窗口By:n-Jack(UI摆烂了)")
+window.title("翻译窗口By:Node(UI摆烂了)")
 window.attributes('-topmost', True)  # 窗口置顶
 
 # 默认文字
